@@ -1,3 +1,2 @@
 # BackgroundColorGenerator
-Web Application Background Color Generator
-Link - https://saijayantht.github.io/BackgroundColorGenerator/
+Web Application Background Color Generator - https://saijayantht.github.io/BackgroundColorGenerator/
