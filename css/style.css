@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, red , yellow);
+}
+div{
+    position: relative;
+    top:50%;
+    left:45%;
+    padding-top: 20px;
+}
+h1{
+    color: rgb(201, 146, 36);
+}
+h4{
+    text-align: center;
+    color: rgb(199, 150, 52);
+}
